@@ -1,0 +1,14 @@
+linear-regression-from-scratch/
+├── linear_regression/
+│   ├── __init__.py
+│   ├── models.py
+│   └── utils.py
+├── tests/
+│   ├── test_models.py
+│   └── test_utils.py
+├── examples/
+│   └── basic_usage.py
+├── requirements.txt
+├── setup.py
+├── .gitignore
+└── README.md
